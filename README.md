@@ -1,4 +1,4 @@
 # UVaOJSolutions
 
-- I am gonna publish my solutions on here.
-- If you want to ask any questions, here is my e-mail: burkaykirnik@gmail.com
+- I will publish my solutions of UVa problems here.
+- If you want to ask any questions or contact me, here is my e-mail: burkaykirnik@gmail.com
